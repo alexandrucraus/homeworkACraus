@@ -1,0 +1,154 @@
+body {
+    background-color: whitesmoke;
+	display:flex;
+	background-image:url(U:\Documentatie\html,csss\IS 2017\HW\\paris.jpg);
+
+	
+	
+}
+
+.container {
+    width: 900px;
+    border: 1px solid gray;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+	border:1px solid black;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	font-style:italic;
+	background-color:#e6ffff;
+	
+	
+
+}
+
+section,
+aside {
+    border: 1px solid gray;
+	
+}
+
+section {
+    margin-bottom: 100px;
+	
+}
+
+#img {
+    border-radius: 50%;
+	width: 160px;
+	
+}
+#img1
+{	
+	width:120px;
+
+}
+#img3
+{
+	border-radius: 50%;
+	width: 160px;
+}
+
+
+
+header {
+    width: 100%;
+    background-color: lightgray;
+}
+
+footer {
+    
+    height: 2%;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+	border:2px solid black;
+	margin:20px;
+	margin:20px;
+	padding:20px;
+	color: black;
+	background-color:#E6E6FA;
+	 
+}
+
+aside {
+    background-color: #c1cdcd;
+}
+
+nav {
+    width: 100%;
+    background-color: #ccc;
+}
+
+nav ul li {
+    display: inline;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+
+.allContent {
+    width: 60%;
+    float: right;
+	border:radius;
+	
+}
+
+.secondMenu {
+    width: 30%;
+    float: left; 
+	height:50%;
+}
+
+.secondMenu
+{
+	margin-left:20px;
+}
+.allContent
+{
+	margin-right:20px;
+}
+h1
+{
+	border:2px solid black;
+	background-color: blue;
+}
+header > nav > ul
+{
+	text-align:center;
+	font-size:40px;
+	background-color: whitesmoke;
+	
+
+}
+
+li
+{
+	border:1px solid black;
+	
+	
+}
+li:hover{
+	background:grey;
+}
+.ul
+{
+	margin-right:20px;
+	margin-left:20px;
+	background-color:#99ccff;
+	
+	
+	
+
+	
+}
+.header
+{
+	font-style:bold;
+}
